@@ -4,6 +4,8 @@ Welcome to my github profile! (just found out that profile readme's are a thing 
 
 ## Who I Am
 
+<img src="https://github.com/ericyangyu/ericyangyu/blob/main/pupper.jpg" height="400" width="500">
+
 I study computer science at UC San Diego. I do research in AI under Dr. Sicun Gao; more recent focuses include autonomous cars. I am also a Microsoft student ambassador and do cool stuff with Microsoft. Too lazy to add more stuff to this, so find out more of what I do [here on linkedin](https://www.linkedin.com/in/eric-yu-engineer/). Just message me if you would like to chat more :)
 
 ## Who I Am (bored edition)
