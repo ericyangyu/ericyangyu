@@ -1,6 +1,6 @@
 # Eric Yang Yu
 
-(just found out that profile readme's are a thing so here we go)
+Welcome to my github profile! (just found out that profile readme's are a thing so here we go)
 
 ## Who I Am
 
