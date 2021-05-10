@@ -12,9 +12,7 @@ I study computer science at UC San Diego. I do research in AI under Dr. Sicun Ga
 Favorite color: blue 🔵 <br/>
 Favorite videogame: Starcraft 2 <br/>
 Favorite animes: Death Note & Attack on Titan (I will defend these to my grave) <br/>
-One regret in life: Not being born in time to watch Star Wars: A New Hope in theaters. <br/>
 
-That's it for now; will update this more in the future. Check out my linkedin for more info, and msg me whenever! ✌️ happy scrolling.
 
 <!--
 **ericyangyu/ericyangyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
