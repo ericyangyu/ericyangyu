@@ -1,12 +1,8 @@
 # Eric Yang Yu
 
-Welcome to my github profile! (just found out that profile readme's are a thing so here we go)
-
-## Who I Am
-
 <img src="https://github.com/ericyangyu/ericyangyu/blob/main/pupper.jpg" height="400" width="500">
 
-I study computer science at UC San Diego. I do research in AI under Dr. Sicun Gao. I am also a Microsoft student ambassador and do cool stuff with Microsoft. Too lazy to add more stuff to this, so find out more of what I do [here on linkedin](https://www.linkedin.com/in/eric-yu-engineer/).
+I am doing a masters in computer science at UC San Diego. I do AI research under Dr. Sicun Gao.
 
 
 <!--
