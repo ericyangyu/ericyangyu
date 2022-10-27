@@ -2,7 +2,7 @@
 
 <img src="https://github.com/ericyangyu/ericyangyu/blob/main/pupper.jpg" height="400" width="500">
 
-I am doing a masters in computer science at UC San Diego. I do AI research under Dr. Sicun Gao.
+I am doing a masters in computer science at UC San Diego. I do AI research under Dr. Sicun Gao. My website: https://ericyangyu.github.io/
 
 
 <!--
